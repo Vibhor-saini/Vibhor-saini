@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/RoyalBos5"><img width="32px" alt="Linkdin" title="Linkdin" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="#"><img width="32px" alt="Linkdin" title="Linkdin" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://vibhor-saini.github.io/PORTFOLIO/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
